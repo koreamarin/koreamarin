@@ -27,11 +27,13 @@ LINUX AWS DOCKER
 ### 💪 Education
 - **이노베이션 아카데미 42 서울 4기 `라피신`** (2021.03 ~ 2021.04)<br/>
 
-
-## Algorithm Rank
-<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jinia91">
-
-
+<div align='center'>
+  
+  ## Algorithm Rank
+  [![Solved.ac
+  프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=rgw95)](https://solved.ac/rgw95)
+  
+</div>
 
 <!--
 Certification : SQLD, 정보처리기사 취득 등..
