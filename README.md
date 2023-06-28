@@ -1,4 +1,11 @@
-### Hi there 👋
+### 👋 인사말~~~
+블로그, mail, 
+
+하고싶은말
+
+Skill
+
+Algorithm Study
 
 <!--
 **koreamarin/koreamarin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
