@@ -4,16 +4,19 @@
   <a href="mailto:awldnjs2@gmail.com" target="_blank"><img src="https://img.shields.io/badge/iscowkite@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
 
-<p>
-  👋&nbsp; 하고싶은말.🚀<br/>
-  하고싶은말.<br/>
-  하고싶은말<br/>
-  하고싶은말<br/><br/>
-  하고싶은말<br/>
-  하고싶은말 <br/><br/>
-</p>
+## Hi! I'm 
 
-Skill
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+## 안녕하세요! 함께 성장하는 개발자 ㅁㅁㅁ 입니다.😀
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+### 💪 Skills
 
 Algorithm Study
 
