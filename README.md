@@ -1,43 +1,49 @@
-### 🤞 Nice way to meet me
-<p>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/Tech_Blog-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
-  <a href="mailto:awldnjs2@gmail.com" target="_blank"><img src="https://img.shields.io/badge/iscowkite@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=JiwonRyu&fontSize=70&animation=twinkling)
+
+
+<h3 align="center">🛠 Skills 🛠</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>  <img src="https://img.shields.io/badge/Javascript-F9DC3E?style=flat-square&logo=javascript&logoColor=white"/>  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
 </p>
-
-<p>
-  👋&nbsp; Hi there! I'm <b>full stack developer</b> skilled in API, WEB, and APP.🚀<br/>
-  I have experience 7 years of Android development and 2 years of iOS development.<br/>
-  At present, I have been interested in creating Graph-QL APIs with Quarkus and a web screen with React.<br/>
-  Sometimes I develop cross-platforms mobile app like ReactNative or Flutter. (but prefer native💖)<br/><br/>
-  I enjoy hiking, swimming, dive and surf. ⛰ 🏄<br/>
-  I hope to develop every beautiful things. ✨ <br/><br/>
+<p align="center">
+  <img src="https://img.shields.io/badge/vuedotjs-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white"/>  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>  <img src="https://img.shields.io/badge/django-092E20?style=flat-square&logo=django&logoColor=white"/>  <img src="https://img.shields.io/badge/MyBatis-D71921?style=flat-square&logo=Java&logoColor=white"/>
 </p>
+<br>
 
 
-### 💪 Skills
-#### Backend
-<img src="https://img.shields.io/badge/Quarkus-4695EB?style=flat-square&logo=Quarkus&logoColor=white"/>  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>  <img src="https://img.shields.io/badge/ReactNative-61DAFB?style=flat-square&logo=React&logoColor=black"/>  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>  <img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=iOS&logoColor=white"/>  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/>
-
-#### FrontEnd
-<img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=white"/>  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>  <img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=Swift&logoColor=white"/>
-
-#### DevOps
-LINUX AWS DOCKER
-
-### 💪 Education
-- **이노베이션 아카데미 42 서울 4기 `라피신`** (2021.03 ~ 2021.04)<br/>
-
-<div align='center'>
-  
-  ## Algorithm Rank
-  [![Solved.ac
-  프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=rgw95)](https://solved.ac/rgw95)
-  
-</div>
+<h3 align="center"> 📖 Education </h3>
+<p align="center">
+  **삼성 청년 소프트웨어 아카데미 `SSAFY`** (2023.07 ~ 2024.06 예정)
+</p>
+<br>
 
 <!--
-Certification : SQLD, 정보처리기사 취득 등..
-Career : 네이버, 인프런 등..
-Award : 어디 수상 등..
+<h3 align="center"> Career </h3>
+<p align="center">
 
+</p>
+<br>
+-->
+
+
+
+
+
+
+<h3 align="center"> 😊 About Me 😊 </h3>
+<p align="center">
+  <a href="https://koreamarin.github.io/" target="_blank"><img src="https://img.shields.io/badge/Blog-D6180B?style=flat-square&logo=bloglovin&logoColor=white"/></a>
+  <a href="mailto:awldnjs2@gmail.com" target="_blank"><img src="https://img.shields.io/badge/awldnjs2@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+</p>
+
+
+
+
+<!--
+-------
+<div align='center'>
+
+## Algorithm Rank
+  [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=rgw95)](https://solved.ac/rgw95)
+</div>
 -->
