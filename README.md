@@ -1,6 +1,7 @@
+<!-- 상단 간판 -->
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=JiwonRyu&fontSize=70&animation=twinkling)
 
-
+<!-- 스킬 -->
 <h3 align="center">🛠 Skills 🛠</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>  <img src="https://img.shields.io/badge/Javascript-F9DC3E?style=flat-square&logo=javascript&logoColor=white"/>  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
@@ -11,13 +12,36 @@
 <br>
 
 
+
+
+<!-- 교육 -->
 <h3 align="center"> 📖 Education </h3>
 <p align="center">
   **삼성 청년 소프트웨어 아카데미 `SSAFY`** (2023.07 ~ 2024.06 예정)
 </p>
 <br>
 
+
+
+
+
+<!-- 프로젝트 -->
 <!--
+<h3 align="center"> 📖 Project </h3>
+<div align="center" style="text-align:center">
+  
+  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=woo0_hooo&tag=기술면접대비)](https://velog.io/@woo0_hooo)
+  
+</div>
+<br>
+-->
+
+
+
+
+
+<!-- 커리어 -->
+<!-- 
 <h3 align="center"> Career </h3>
 <p align="center">
 
@@ -29,7 +53,7 @@
 
 
 
-
+<!-- About Me -->
 <h3 align="center"> 😊 About Me 😊 </h3>
 <p align="center">
   <a href="https://koreamarin.github.io/" target="_blank"><img src="https://img.shields.io/badge/Blog-D6180B?style=flat-square&logo=bloglovin&logoColor=white"/></a>
@@ -39,8 +63,9 @@
 
 
 
+
+<!-- 백준 -->
 <!--
--------
 <div align='center'>
 
 ## Algorithm Rank
