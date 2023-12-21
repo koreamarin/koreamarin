@@ -24,15 +24,15 @@
 
 
 
-
 <!-- 프로젝트 -->
 <!--
-<h3 align="center"> 📖 Project </h3>
+<h3 align="center"> 🚀 Project 🚩</h3>
 <div align="center" style="text-align:center">
   
-  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=woo0_hooo&tag=기술면접대비)](https://velog.io/@woo0_hooo)
+  [![Velog's GitHub stats](hㅁㄴㅇㄹ)](https://koreamarin.github.io/portfolio/)
   
 </div>
+
 <br>
 -->
 
