@@ -15,7 +15,7 @@
 
 
 <!-- 경험 -->
-<h3 align="center"> 📖 Experience </h3>
+<h3 align="center"> 📖 Experience 📖 </h3>
 <p align="center">
   ** 삼성 청년 소프트웨어 아카데미 `SSAFY`** (2023.07 ~ 2024.06 예정)
 </p>
